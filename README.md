@@ -8,4 +8,4 @@
 ## 게임 소개
 
 ### 플레이 영상
-![Gameplay](./Bard/img/result.jpg)
+![Gameplay](./Bard/img/GamePlay.gif)
