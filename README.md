@@ -7,4 +7,5 @@
 
 ## 게임 소개
 
-### 게임 설명과 목표
+### 플레이 영상
+![Gameplay](./Bard/img/result.jpg)
