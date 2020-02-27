@@ -7,5 +7,8 @@
 
 ## 게임 소개
 
+* 리듬액션 게임
+
 ### 플레이 영상
 ![Gameplay](./Bard/img/GamePlay.gif)
+
