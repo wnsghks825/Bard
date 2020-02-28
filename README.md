@@ -15,3 +15,5 @@
 ### 플레이 영상
 ![Gameplay](./Bard/img/GamePlay.gif)
 
+### 결과 화면
+![Result](./Bard/img/result.jpg)
